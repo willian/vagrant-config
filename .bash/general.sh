@@ -18,6 +18,7 @@ export INSTALL_DIR="$HOME/local"
 export GEM_HOME="/home/vagrant/local/ruby/gems"
 export GEM_PATH=$GEM_HOME
 export EDITOR=vim
+export LC_ALL="en_US.UTF-8"
 
 shopt -s cdspell
 shopt -s nocaseglob
